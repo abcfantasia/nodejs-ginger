@@ -1,5 +1,5 @@
 {
-  "name": "ginger-api",
+  "name": "ginger",
   "version": "0.1.0",
   "description": "Spell checking using gingersoftware for Node.js",
   "keywords": [
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wordam/gingersoftware-nodejs-api"
+    "url": "https://github.com/Wordam/nodejs-ginger"
   },
-  "homepage": "https://github.com/Wordam/gingersoftware-nodejs-api",
+  "homepage": "https://github.com/Wordam/nodejs-ginger",
   "scripts": {
     "test": "make test"
   },

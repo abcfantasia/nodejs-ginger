@@ -1,4 +1,4 @@
-# gingersoftware-nodejs-api
+# nodejs-ginger
 Package to use the ginger api : English grammar checker
 
 This node package was built on the following [example](https://github.com/vesln/teacher)
