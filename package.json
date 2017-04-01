@@ -1,0 +1,31 @@
+{
+  "name": "ginger-api",
+  "version": "0.1.0",
+  "description": "Spell checking using gingersoftware for Node.js",
+  "keywords": [
+    "spell check",
+    "spell checking"
+  ],
+  "author": "Romain Karpinski",
+  "dependencies": {
+    "request": "2.81.0",
+    "xml2js": "0.1.13"
+  },
+  "devDependencies": {
+    "mocha": "0.x.x",
+    "chai": "0.4.x",
+    "jack": "0.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wordam/gingersoftware-nodejs-api"
+  },
+  "homepage": "https://github.com/Wordam/gingersoftware-nodejs-api",
+  "scripts": {
+    "test": "make test"
+  },
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
